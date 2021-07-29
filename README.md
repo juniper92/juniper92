@@ -1,5 +1,5 @@
 <p>
-  <a href="https://heyjuniper.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://heyjuniper.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DE0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:heyjuniper92@gmail.com" target="_blank"><img src="https://img.shields.io/badge/heyjuniper92@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
@@ -24,8 +24,6 @@
 
  
 <p>
-**Languages and Tools:** 
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
 </p>
@@ -42,12 +40,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 </p>
 
-<!--- 
-  if you have forked this to use on your profile, 
-  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
---->
-
-<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
 
 
