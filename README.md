@@ -20,7 +20,7 @@
 <!--   <img src="https://img.shields.io/badge/Kotlin-31A8FF?style=flat-square&logo=Kotlin&logoColor=white"/>  -->
 <!--   <img src="https://img.shields.io/badge/C-02458D?style=flat-square&logo=C&logoColor=white"/> -->
 <!--   <img src="https://img.shields.io/badge/Python-FDEE21?style=flat-square&logo=Python&logoColor=white"/> -->
-</p> -->
+</p>
 
  
 <p>
