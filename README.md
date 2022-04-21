@@ -1,6 +1,6 @@
 <p>
   <a href="https://heyjuniper.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-CE0721?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:heyjuniper92@gmail.com" target="_blank"><img src="https://img.shields.io/badge/heyjuniper92@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:milayang92@gmail.com" target="_blank"><img src="https://img.shields.io/badge/heyjuniper92@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <p>
